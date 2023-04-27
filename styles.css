@@ -8,7 +8,7 @@ body {
 
 /* DEMO-SPECIFIC STYLES */
 .typewriter h1 {
-  color: #12390b;
+  color: #ffffff;
   font-family: monospace;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
